@@ -164,8 +164,8 @@ def snake_hit_self(snake: Snake) -> bool:
 
 def print_score(score: int) -> None:
     """Prints the score onto the screen."""
-    print('Game Over!')
-    print(f'Your Score: {score}')
+    print('Game Over Ya Loser!')
+    print(f'You only Scored: {score}')
 
 
 if __name__ == '__main__':
